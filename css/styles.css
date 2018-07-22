@@ -312,10 +312,10 @@ font-size: 40px;
 top: 15px;
 right: 35px;
 }
-}
 
-/*---BUTTONS-----*/
-/* .button {
+
+/* ---BUTTONS-----*/
+ .button {
 border: none;
 color: #F15A29;
 padding: 15px 32px;
@@ -332,4 +332,4 @@ border-radius: 5px;
 background-color: white;
 color: #F15A29;
 border: 2px solid #F15A29;
-}  */
+}
